@@ -32,12 +32,12 @@ $git clone https://github.com/bimbims125/stisla-django.git
 
 ## Usage
 - Create a Virtual Environment :
-```
-$py -m venv env
-```
+ ```
+ $py -m venv env
+ ```
 - Activate a Virtual Environment :
  ```
- env\scripts\activate
+ $env\scripts\activate
  ```
 - Install Django :
  ```
@@ -46,9 +46,9 @@ $py -m venv env
 - Open folder `stisla-django`
 
 - Run the Server 
-```
-$py manage.py runserver
-```
+ ```
+ $py manage.py runserver
+ ```
 - Open `127.0.0.1:8000` in your Browser
 
 ## License
