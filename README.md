@@ -25,10 +25,9 @@
 - Documentation: [getstisla.com/docs](https://getstisla.com/docs)
 
 ## Installation
-- [Download the latest release].
-or clone the repo :
+- clone the repo :
 ```
-
+$git clone https://github.com/bimbims125/stisla-django.git
 ```
 
 ## Usage
