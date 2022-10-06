@@ -45,7 +45,7 @@ $git clone https://github.com/bimbims125/stisla-django.git
  ```
 - Open folder `stisla-django`
  ```
- $cd stisla django
+ $cd stisla-django
  ```
 - Run the Server
  ```
