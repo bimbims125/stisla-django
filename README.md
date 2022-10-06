@@ -43,14 +43,11 @@ $git clone https://github.com/bimbims125/stisla-django.git
  ```
  $pip install django==2.2.12 (i'm using django 2.2 version)
  ```
- - Install Pillow :
- ```
- using Pillow for image processing
- $pip install pillow
- ```
 - Open folder `stisla-django`
-
-- Run the Server 
+ ```
+ $cd stisla django
+ ```
+- Run the Server
  ```
  $py manage.py runserver
  ```
