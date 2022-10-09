@@ -41,7 +41,7 @@ $git clone https://github.com/bimbims125/stisla-django.git
  ```
 - Install Django :
  ```
- $pip install django==2.2.12 (i'm using django 2.2 version)
+ $pip install django
  ```
 - Open folder `stisla-django`
  ```
@@ -52,6 +52,8 @@ $git clone https://github.com/bimbims125/stisla-django.git
  $py manage.py runserver
  ```
 - Open `127.0.0.1:8000` in your Browser
+
+## Keep Enjoy! Thanks for using this project!
 
 ## License
 
